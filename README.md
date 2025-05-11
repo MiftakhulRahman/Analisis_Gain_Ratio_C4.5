@@ -133,5 +133,3 @@ Untuk pertanyaan atau dukungan, hubungi:
 
 Terima kasih kepada **Universitas Nurul Huda**, dosen pembimbing, dan semua pihak yang telah mendukung penelitian ini.  
 Kontribusi dan masukan Anda sangat dihargai!
-
----
