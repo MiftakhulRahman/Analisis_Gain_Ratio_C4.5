@@ -1,7 +1,6 @@
 # 📊 Analisis Kepuasan Mahasiswa terhadap E-Learning Universitas Nurul Huda Menggunakan Algoritma C4.5
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Selesai-brightgreen.svg)
 
 ## 📌 Ikhtisar
@@ -120,12 +119,6 @@ Jika Anda ingin berkontribusi:
    ```
 3. Lakukan perubahan dan commit
 4. Kirim Pull Request
-
----
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
 
 ---
 
